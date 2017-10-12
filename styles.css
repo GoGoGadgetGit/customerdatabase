@@ -1,0 +1,39 @@
+h1{
+    text-align:center;
+    text-transform: uppercase;
+    font-family:sans-serif;
+  }
+
+.main {
+    float: left;
+    width: 25%;
+    text-align: center;
+    text-transform: capitalize;
+  }
+
+.picture{
+    width: 100%;
+  }
+  
+.name{
+    text-transform:uppercase;
+    font-weight: bold;
+    text-decoration:underline green;
+    text-underline-position: under;
+    margin: 8px;
+  }
+  
+.email{
+    text-transform: uppercase;
+    font-weight:200;
+    font-size: 10px;
+    color: lightgray;
+    margin: 8px;    
+  }
+  
+.address{
+    text-transform:capitalize;
+    color: gray;
+    font-size: 10px;
+    margin: 8px;    
+  }
